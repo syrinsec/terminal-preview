@@ -1,7 +1,7 @@
 #  Termfx preview
 Shows a preview of faded files created by bleach
 
-![](https://i.imgur.com/a/drBP6SV)
+![](https://i.imgur.com/a/drBP6SV.png)
 
 **Note**: this package requires go installed and a console that supports true color
 
