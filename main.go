@@ -18,7 +18,7 @@ func init() {
 func main() {
   data, err := ioutil.ReadFile(Path)
   if err != nil {
-    fmt.Println("Couldn\'t find file", err)
+    fmt.Println("Couldn't find file", err)
     return
   }
   fmt.Println(string(data))
